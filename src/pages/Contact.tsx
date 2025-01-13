@@ -90,7 +90,7 @@ const Contact = () => {
                     <div>
                       <p className="text-gray-400">Email</p>
                       <a href="mailto:contact@example.com" className="text-white font-medium hover:text-purple-400 transition-colors">
-                        contact@example.com
+                        shiwankakumari1999@gmail.com
                       </a>
                     </div>
                   </motion.div>
@@ -102,7 +102,7 @@ const Contact = () => {
                     <Phone className="w-6 h-6 text-purple-400" />
                     <div>
                       <p className="text-gray-400">Phone</p>
-                      <p className="text-white font-medium">+1 (555) 123-4567</p>
+                      <p className="text-white font-medium">+91 96087 52585</p>
                     </div>
                   </motion.div>
 
@@ -113,7 +113,7 @@ const Contact = () => {
                     <MapPin className="w-6 h-6 text-purple-400" />
                     <div>
                       <p className="text-gray-400">Location</p>
-                      <p className="text-white font-medium">New York, NY</p>
+                      <p className="text-white font-medium">Lucknow , India</p>
                     </div>
                   </motion.div>
                 </div>
