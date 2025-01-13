@@ -6,8 +6,8 @@ const Education:React.FC = () => {
   const education = [
     {
       degree: "Master of Business Administration",
-      institution: "Top Business School",
-      year: "2022 - Present",
+      institution: "Babu Banarsi Das University",
+      year: "2023 - Present",
       description: "Specializing in Strategic Management and Business Analytics",
       achievements: [
         "Dean's List - All semesters",
@@ -16,14 +16,14 @@ const Education:React.FC = () => {
       ]
     },
     {
-      degree: "Bachelor of Commerce",
-      institution: "Premier University",
-      year: "2018 - 2022",
-      description: "Major in Finance and Marketing",
+      degree: "Bachelor of Science",
+      institution: "Aara University",
+      year: "2017 - 2021",
+      description: "Mathematics Physcis and Science",
       achievements: [
-        "Graduated with First Class Honours",
+        "Graduated with First Class ",
         "Student Council Representative",
-        "Research Assistant - Business Department"
+        "Organising many Events"
       ]
     }
   ];
